@@ -1,7 +1,7 @@
 {
   "version": "1.0.0.0",
   "strings": {
-    "name": "Worker Service",
+    "name": "Служба Worker Service",
     "description": "Шаблон пустого проекта для создания службы Worker Service."
   }
 }
